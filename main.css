@@ -1,0 +1,9 @@
+body {
+    background-color: darkgrey;
+}
+
+#content-main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
